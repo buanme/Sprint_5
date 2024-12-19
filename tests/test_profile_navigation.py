@@ -1,8 +1,8 @@
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions
 
-from tests.locators import Locators
-from tests.urls import Urls
+from locators import Locators
+from urls import Urls
 
 
 class TestNavigationScenarios:
